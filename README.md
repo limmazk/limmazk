@@ -4,13 +4,15 @@
 
 ###
 
-<h5 align="left">Olá! 👋 Eu sou Arthur Lima<br>Sou um programador, estou especialmente usando Python, minha linguagem principal. Tenho experiência em automação de processos e scripts que otimizam tarefas do dia a dia. Também utilizo o Flask e um pouco de HTML para desenvolver sites e APIs simples, criando experiências web funcionais.<br><br>Atualmente, estou me aprofundando em Análise de Dados, meu objetivo é aplicar essa habilidade em projetos futuros e conseguir estudar e contribuir ainda mais para o campo de Ciência de Dados.</h5>
+<br clear="both">
+
+<h3 align="left">Olá! 👋 Eu sou Arthur Lima<br>Sou um programador, estou especialmente usando Python, minha linguagem principal. Tenho experiência em automação de processos e scripts que otimizam tarefas do dia a dia. Também utilizo o Flask e um pouco de HTML para desenvolver sites e APIs simples, criando experiências web funcionais.<br><br>Atualmente, estou me aprofundando em Análise de Dados, meu objetivo é aplicar essa habilidade em projetos futuros e conseguir estudar e contribuir ainda mais para o campo de Ciência de Dados.</h3>
 
 ###
 
 <br clear="both">
 
-<img align="left" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Jpc3Z1YjZrZWU1a20yc3lkYTVzc2c2cTdpM3pvZjZjaWpucmQzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+<img align="left" height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Jpc3Z1YjZrZWU1a20yc3lkYTVzc2c2cTdpM3pvZjZjaWpucmQzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 
 ###
 
@@ -23,7 +25,7 @@
 
 <br clear="both">
 
-<p align="left">Minhas Habilidades:<br>Python: Automação, scripts, e desenvolvimento web básico.<br>Flask & HTML: Criação de sites e APIs.<br>Estudando: Análise de dados, visualização e manipulação de dados.<br>Sempre buscando aprender mais e colaborar em projetos desafiadores!</p>
+<h3 align="left">Minhas Habilidades:<br>Python: Automação, scripts, e desenvolvimento web básico.<br>Flask & HTML: Criação de sites e APIs.<br>Estudando: Análise de dados, visualização e manipulação de dados.<br>Sempre buscando aprender mais e colaborar em projetos desafiadores!</h3>
 
 ###
 
