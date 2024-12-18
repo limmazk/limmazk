@@ -14,7 +14,7 @@
 
 <br clear="both">
 
-<p align="left">Python: Automação, scripts, e desenvolvimento web básico.<br>Flask & HTML: Criação de sites e APIs.<br>Estudando: Análise de dados, visualização e manipulação de dados.<br>Sempre buscando aprender mais e colaborar em projetos desafiadores!</p>
+<p align="left">Python: Automação e desenvolvimento web básico.<br>Flask & HTML: A base de APIs.<br>SQL: Banco de Dados e manipulação com dados.<br>Estudando: Análise de dados, visualização e manipulação de dados.<br>Sempre buscando aprender mais e colaborar em projetos desafiadores!</p>
 
 ###
 
