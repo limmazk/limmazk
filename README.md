@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<p align="left">Olá! 👋 Eu sou Arthur Lima<br>Sou um programador, estou especialmente usando Python, minha linguagem principal. Tenho experiência em automação de processos e scripts que otimizam tarefas do dia a dia. Também utilizo o Flask e um pouco de HTML para desenvolver sites e APIs simples, criando experiências web funcionais.<br><br>Atualmente, estou me aprofundando em Análise de Dados, meu objetivo é aplicar essa habilidade em projetos futuros e conseguir estudar e contribuir ainda mais para o campo de Ciência de Dados.</p>
+<p align="left">Olá! 👋 Eu sou Arthur Lima<br>Sou um programador, estou especialmente usando Python, minha linguagem principal. Tenho experiência em automação de processos e scripts que otimizam tarefas do dia a dia. Também utilizo o Flask e um pouco de HTML para desenvolver sites e APIs simples, criando experiências web funcionais.<br><br>Atualmente, estou fazendo curso técnico em ADS, buscando saber mais sobre outras linguagens e conseguir me aprofundar mais ainda em programação, também pretendo entender mais em Análise de Dados, meu objetivo é aplicar essas habilidades em projetos futuros e conseguir estudar e contribuir ainda mais para áreas em programação!.</p>
 
 ###
 
