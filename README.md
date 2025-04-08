@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<p align="left">Olá! 👋 Eu sou Arthur Lima<br>Sou um programador, estou especialmente usando Python, minha linguagem principal. Tenho experiência em automação de processos e scripts que otimizam tarefas do dia a dia. Também utilizo o Flask e um pouco de HTML para desenvolver sites e APIs simples, criando experiências web funcionais.<br><br>Atualmente, estou fazendo curso técnico em ADS, buscando saber mais sobre outras linguagens e conseguir me aprofundar mais ainda em programação, também pretendo entender mais em Análise de Dados, meu objetivo é aplicar essas habilidades em projetos futuros e conseguir estudar e contribuir ainda mais para áreas em programação!.</p>
+<p align="left">Olá! 👋 Eu sou Arthur Lima<br>Sou um Desenvolvedor Front End.<br><br>Atualmente, estou fazendo curso técnico em Análise e Desenvolvimento de Sistemas na Anhanguera, busco saber mais sobre outras linguagens e conseguir me aprofundar mais ainda em programação, estou começando a estudar a parte de Back End, também pretendo aprender mais sobre SQL , meu objetivo é aplicar essas habilidades em projetos futuros, conseguir estudar e contribuir ainda mais para áreas em programação e em trabalhos que eu possa mostrar minha habilidades!</p>
 
 ###
 
@@ -14,27 +14,23 @@
 
 <br clear="both">
 
-<p align="left">Python: Automação e desenvolvimento web básico.<br>Flask & HTML: A base de APIs.<br>SQL: Banco de Dados e manipulação com dados.<br>Estudando: ADS, Análise de dados, visualização e manipulação de dados.<br>Sempre buscando aprender mais e colaborar em projetos desafiadores!</p>
-
 ###
 
 <br clear="both">
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
+<div>
+  <a href="https://github.com/limmazk">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=limmazk&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limmazk&layout=compact&langs_count=16&theme=dark"/>
+</div>
+<div style="display: inline_block"><br>
+    <img align="center" alt="Arthur-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Arthur-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="Arthur-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Arthur-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Arthur-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=limmazk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=limmazk&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=limmazk&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
 
 ###
 
@@ -51,16 +47,15 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://www.instagram.com/arthurlimma12/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href ="mailto:limmaarthur08@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/arthur-lima-027581326/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/limmazk/limmazk/output/snake.svg" alt="Snake animation" />
+
 
 ###
