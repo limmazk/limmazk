@@ -1,10 +1,18 @@
-<h1 align="left">Quem sou?</h1>
+<h1 align="left">Arthur Lima</h1>
 
 ###
 
 <br clear="both">
 
-<p align="left">Olá! 👋 Eu sou Arthur Lima<br>Sou um Desenvolvedor Front End.<br><br>Atualmente, estou fazendo curso técnico em Análise e Desenvolvimento de Sistemas na Anhanguera, busco saber mais sobre outras linguagens e conseguir me aprofundar mais ainda em programação, estou começando a estudar a parte de Back End, também pretendo aprender mais sobre SQL , meu objetivo é aplicar essas habilidades em projetos futuros, conseguir estudar e contribuir ainda mais para áreas em programação e em trabalhos que eu possa mostrar minha habilidades!</p>
+Olá! 👋 Eu sou Arthur Lima<br>**Sou um Desenvolvedor Front End**👨‍💻.<br><br>Atualmente, estou fazendo curso técnico em Análise e Desenvolvimento de Sistemas na Anhanguera, busco saber mais sobre outras linguagens e conseguir me aprofundar mais ainda em programação, estou começando a estudar a parte de Back End. Meu objetivo é aplicar essas habilidades em projetos futuros, conseguir estudar e contribuir ainda mais para áreas em programação e em trabalhos que eu possa mostrar minha habilidades!
+
+###
+
+<h1 align="left">🛠️ Ferramentas que uso</h1>
+
+  **Tecnologias:** JavaScript, HTML, CSS, React e Python   
+  **Foco atual:** Desenvolvimento web
+
 
 ###
 
