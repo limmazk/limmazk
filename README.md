@@ -11,7 +11,7 @@ Olá! 👋 Eu sou Arthur Lima<br>**Sou um Desenvolvedor Front End**👨‍💻.<
 <h1 align="left">🛠️ Ferramentas que uso</h1>
 
   **Tecnologias:** JavaScript, HTML, CSS, React e Python   
-  **Foco atual:** Desenvolvimento web
+  **Foco atual:** FullStack
 
 
 ###
