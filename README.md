@@ -8,7 +8,7 @@ Olá! 👋 Eu sou Arthur Lima<br>**Sou um Desenvolvedor Front End**👨‍💻.<
 
 ###
 
-<h1 align="left">🛠️ Ferramentas que uso</h1>
+<h1 align="left">🛠️ Ferramentas que utilizo:</h1>
 <div style="display: inline_block"><br>
     <img align="center" alt="Arthur-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Arthur-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
