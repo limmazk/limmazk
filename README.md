@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-Olá! 👋 Eu sou Arthur Lima<br>**Sou um Desenvolvedor Front End**👨‍💻.<br><br>Atualmente, estou fazendo curso técnico em Análise e Desenvolvimento de Sistemas na Anhanguera, busco saber mais sobre outras linguagens e conseguir me aprofundar mais ainda em programação, estou começando a estudar a parte de Back End. Meu objetivo é aplicar essas habilidades em projetos futuros, conseguir estudar e contribuir ainda mais para áreas em programação e em trabalhos que eu possa mostrar minha habilidades!
+Olá! 👋 Eu sou Arthur Lima<br>**Sou um Desenvolvedor Front End**👨‍💻.<br><br>Atualmente, estou fazendo curso técnico em Análise e Desenvolvimento de Sistemas na Anhanguera, busco saber mais sobre outras linguagens e conseguir me aprofundar mais ainda em programação, e estou começando a estudar a parte de Back End. Meu objetivo é aplicar essas habilidades em projetos futuros, conseguir estudar e contribuir ainda mais para áreas em programação e em trabalhos que eu possa mostrar minha habilidades!
 
 ###
 
