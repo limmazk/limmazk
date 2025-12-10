@@ -10,11 +10,12 @@ Olá! 👋 Eu sou Arthur Lima<br>**Sou um Desenvolvedor Front End**👨‍💻.<
 
 <h1 align="left">🛠️ Ferramentas que utilizo:</h1>
 <div style="display: inline_block"><br>
-    <img align="center" alt="Arthur-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Arthur-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Arthur-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Arthur-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Arthur-TailwindCSS" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png">
+    <img align="center" alt="Arthur-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Arthur-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="Arthur-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Arthur-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Arthur-TailwindCSS" height="40" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png">
+    <img align="center" alt="Arthur-Php" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 </div>
 
 <br clear="both">
@@ -24,41 +25,22 @@ Olá! 👋 Eu sou Arthur Lima<br>**Sou um Desenvolvedor Front End**👨‍💻.<
 <br clear="both">
 <div>
   <a href="https://github.com/limmazk">
- <img 
-  align="left"
-  alt="GitHub Stats"
-  height="200px"
-  style="padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api?username=limmazk&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br"
- />
 
- <img 
-  align="left"
-  alt="GitHub Stats"
-  height="200px"
-  style="padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=limmazk&theme=radical&layout=donut"
- />
+
+ 
+
  </div>
-
-<br>
 
 
 ###
-
-
-
-
 
 ###
 
 ###
 
 <br clear="both">
-<br>
-<br>
 <div align="center">
-  <img height="500" src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif"  />
+  <img height="700" width="700" src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif"  />
 </div>
 
 ###
