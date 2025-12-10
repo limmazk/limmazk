@@ -56,6 +56,7 @@ Olá! 👋 Eu sou Arthur Lima<br>**Sou um Desenvolvedor Front End**👨‍💻.<
 
 <br clear="both">
 <br>
+<br>
 <div align="center">
   <img height="500" src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif"  />
 </div>
