@@ -21,6 +21,11 @@ Olá! 👋 Eu sou Arthur Lima<br>**Sou um Desenvolvedor Front End**👨‍💻.<
 <br clear="both">
 
 <h1 align="left">💻 Estatísticas:</h1>
+<br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limmazk&hide=tex&card_width=400&layout=compact&theme=dark&repo=github-readme-stats" />
+</a>
+
 
 <br clear="both">
 <div>
