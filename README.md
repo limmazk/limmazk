@@ -1,56 +1,68 @@
-<h1 align="left">👨🏽‍💻 Arthur Lima</h1>
+<h1 align="center">👨🏽‍💻 Arthur Lima</h1>
 
-###
-
-<br clear="both">
-
-Olá! 👋 Eu sou Arthur Lima<br>**Sou um Desenvolvedor Front End**👨‍💻.<br><br>Atualmente, estou fazendo curso técnico em Análise e Desenvolvimento de Sistemas na Anhanguera, busco saber mais sobre outras linguagens e conseguir me aprofundar mais ainda em programação, e estou começando a estudar a parte de Back End. Meu objetivo é aplicar essas habilidades em projetos futuros, conseguir estudar e contribuir ainda mais para áreas em programação e em trabalhos que eu possa mostrar minha habilidades!
-
-###
-
-<h1 align="left">🛠️ Ferramentas que utilizo:</h1>
-<div style="display: inline_block"><br>
-    <img align="center" alt="Arthur-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Arthur-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Arthur-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Arthur-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Arthur-TailwindCSS" height="40" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png">
-    <img align="center" alt="Arthur-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
-</div>
-
-<br clear="both">
-
-<h1 align="left">💻 Estatísticas:</h1>
-<br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limmazk&hide=tex&card_width=400&layout=compact&theme=dark&repo=github-readme-stats" />
-</a>
-
-
-<br clear="both">
-<div>
-  <a href="https://github.com/limmazk">
-
-
- 
-
- </div>
-
-
-###
-
-###
-
-###
-
-<br clear="both">
 <div align="center">
-  <img height="700" width="700" src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif"  />
+  
+### Desenvolvedor Full Stack | Estudante de ADS 
+
+
 </div>
 
 ###
 
-<h1 align="left">📱 Redes Sociais:</h1>
+<br clear="both">
+
+Olá! 👋 Sou um desenvolvedor apaixonado por transformar ideias em código funcional. Atualmente no 3º semestre de Análise e Desenvolvimento de Sistemas, explorando diversas áreas da tecnologia e sempre em busca de novos desafios.
+###
+
+<h1 align="center">💻 Ferramentas que utilizo:</h1>
+<div style="display: inline_block"><br>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+**Frontend**
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</td>
+<td align="center" width="33%">
+
+**Backend**
+
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+</td>
+<td align="center" width="33%">
+
+**Database**
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+    
+</div>
+
+<br clear="both">
+
+<h1 align="center">💻 Estatísticas:</h1>
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=limmazk&theme=tokyonight&hide_border=true" />
+</div>
+
+<br>
+
+###
+
+<h1 align="center">📱 Redes Sociais:</h1>
 
 ###
 
