@@ -11,7 +11,7 @@
 
 <br clear="both">
 
-Olá! 👋 Sou um desenvolvedor apaixonado por transformar ideias em código funcional. Atualmente no 3º semestre de Análise e Desenvolvimento de Sistemas, explorando diversas áreas da tecnologia e sempre em busca de novos desafios.
+Olá! 👋 Sou um desenvolvedor apaixonado por transformar ideias em código funcional. Atualmente no 4º semestre de Análise e Desenvolvimento de Sistemas, explorando diversas áreas da tecnologia e sempre em busca de novos desafios.
 ###
 
 <h1 align="center">💻 Ferramentas que utilizo:</h1>
