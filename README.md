@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### Desenvolvedor Full Stack | Estudante de ADS 
+### Desenvolvedor Java | Estudante de ADS 
 
 
 </div>
